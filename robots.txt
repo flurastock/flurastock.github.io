@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flurastock.github.io/sitemap.xml
